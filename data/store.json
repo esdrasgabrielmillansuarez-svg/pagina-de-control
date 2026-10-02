@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "1234",
+      "role": "Administrador"
+    },
+    {
+      "username": "maria",
+      "password": "admin",
+      "role": "Operaciones"
+    },
+    {
+      "username": "operacion",
+      "password": "operacion",
+      "role": "Operaciones"
+    },
+    {
+      "username": "reporte",
+      "password": "reporte",
+      "role": "Reportes"
+    }
+  ],
+  "products": [],
+  "sales": [],
+  "history": [],
+  "rate": 0
+}
